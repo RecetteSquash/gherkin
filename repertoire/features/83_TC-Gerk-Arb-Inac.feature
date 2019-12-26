@@ -2,4 +2,4 @@
 # Automation status: TRANSMITTED
 # Test case importance: LOW
 # language: fr
-Fonctionnalité: TC-racine
+Fonctionnalité: TC-Gerk-Arb-Inac
